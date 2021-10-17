@@ -8,8 +8,16 @@ export default function App() {
       <main>
         <Dictionary defaultKeyword="parrot" />
       </main>
-      <footer className="text-center">
-        <small>Coded by Gizem Eda Varol</small>
+      <footer>
+        <small>
+          Coded by{" "}
+          <a
+            href="https://portfolio-gizem-eda-varol.netlify.app/about.html"
+            target="_blank"
+          >
+            Gizem Eda Varol
+          </a>
+        </small>
       </footer>
     </div>
   );
