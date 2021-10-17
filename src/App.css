@@ -1,9 +1,17 @@
 .App {
   text-align: center;
   margin: 30px 0;
+  font-size: 50px;
+  font-weight: bolder;
 }
-
+body {
+  background-color: #b1bed5;
+}
+a {
+  color: #385170;
+}
 footer {
-  text-align: center;
   margin: 30px 0;
+  font-weight: 500;
+  font-size: 15 px;
 }
