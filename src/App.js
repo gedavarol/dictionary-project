@@ -14,6 +14,7 @@ export default function App() {
           <a
             href="https://portfolio-gizem-eda-varol.netlify.app/about.html"
             target="_blank"
+            rel="noreferrer"
           >
             Gizem Eda Varol
           </a>
